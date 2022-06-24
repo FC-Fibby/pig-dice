@@ -1,5 +1,5 @@
 # pig-dice
-
+Let's complete pig-dice game
 
 # summary of pig the dice game
 
